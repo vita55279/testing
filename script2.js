@@ -1272,7 +1272,7 @@ function highlightChord(num1, num2) {
 	d3.selectAll(".ribbon")
 		.style("opacity", d => {
 			return (d.source.index === sourceIndex && d.target.index === targetIndex) ||
-			(d.target.index === sourceIndex && d.source.index === targetIndex) ? 1 : 0.2; // 0.02
+			(d.target.index === sourceIndex && d.source.index === targetIndex) ? 1 : 0; // 0.02
 		})
 		.style("stroke-width", d => {
 			return ((d.source.index === sourceIndex && d.target.index === targetIndex) ||
