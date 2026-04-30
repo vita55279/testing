@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>marksix-big45</title>
+    <defs>
+        <circle id="path-1" cx="25.7678571" cy="25.7678571" r="25.7678571"></circle>
+        <filter x="-11.6%" y="-11.6%" width="123.3%" height="123.3%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="36.529559%" y1="65.8704271%" x2="73.9125845%" y2="-7.92687218%" id="linearGradient-3">
+            <stop stop-color="#E04242" offset="0%"></stop>
+            <stop stop-color="#96261C" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="15.1402379%" y1="59.3007393%" x2="72.6368947%" y2="5.0539727%" id="linearGradient-4">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#EAEAEA" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="55.8285348%" y1="50%" x2="85.1741293%" y2="79.2853393%" id="linearGradient-5">
+            <stop stop-color="#000000" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.421711101" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="4.0-Mark-Six-Ball" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="MarkSix-60x60_new-Copy" transform="translate(-374, -340)">
+            <g id="Group-Copy-5" transform="translate(378, 344)">
+                <g id="Group-10-Copy-2" transform="translate(25.7679, 25.7679) scale(1, -1) translate(-25.7679, -25.7679)">
+                    <g id="Oval">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    </g>
+                    <path d="M25.7678571,0 C29.059677,0 32.2073276,0.617262099 35.1013778,1.74235512 C35.960253,4.53984461 37.8582577,7.73543328 40.5936796,10.6688142 C43.6418656,13.9375935 47.0873922,16.1917552 50.0368595,17.0878971 C51.0072513,19.799586 51.5357143,22.722007 51.5357143,25.7678571 C51.5357143,31.3445408 49.7641803,36.5074604 46.7531726,40.7245559 C44.2651,41.4732295 41.5181117,42.875239 38.8879219,44.8572292 C36.6081025,46.5751963 34.7229676,48.4976271 33.3458294,50.4023789 C30.949673,51.1395507 28.4050295,51.5357143 25.7678571,51.5357143 C21.3334169,51.5357143 17.1606011,50.4155671 13.5169254,48.4427884 C12.4928972,46.2772299 10.9413882,43.9941345 8.94288313,41.8510001 C6.85896725,39.616274 4.58933919,37.8557677 2.41946999,36.6792099 C0.866788425,33.367082 0,29.6686942 0,25.7678571 C0,21.9849257 0.815181712,18.3923901 2.27946477,15.1563308 C5.55958586,14.8114283 9.86817042,12.3339912 13.5857403,8.34738562 C15.8044319,5.9681301 17.4722054,3.4163739 18.4809907,1.04503366 C20.7910052,0.364918642 23.2368155,0 25.7678571,0 Z" id="Combined-Shape" fill="url(#linearGradient-3)"></path>
+                    <ellipse id="Oval" fill="url(#linearGradient-4)" transform="translate(26.1578, 27.8832) rotate(7) translate(-26.1578, -27.8832)" cx="26.1578493" cy="27.8832295" rx="19.0357143" ry="16.6833333"></ellipse>
+                </g>
+                <path d="M46.7295785,10 C49.9727984,14.3375634 51.8933604,19.7216023 51.8933604,25.5542125 C51.8933604,39.913616 40.2527639,51.5542125 25.8933604,51.5542125 C15.1810906,51.5542125 5.98192409,45.075847 2,35.8232552 Z" id="Combined-Shape" fill="url(#linearGradient-5)"></path>
+                <g id="45" transform="translate(13.504, 15.72)" fill="#000000" fill-rule="nonzero">
+                    <path d="M3.146,9.592 L5.676,5.544 C6.138,4.664 6.578,3.762 6.974,2.904 L7.062,2.904 C7.018,3.85 6.93,5.324 6.93,6.27 L6.93,9.592 L3.146,9.592 Z M11.88,9.592 L9.944,9.592 L9.944,0 L6.072,0 L0,9.856 L0,12.056 L6.93,12.056 L6.93,16.28 L9.944,16.28 L9.944,12.056 L11.88,12.056 L11.88,9.592 Z" id="Shape"></path>
+                    <path d="M18.568,16.588 C21.582,16.588 24.266,14.498 24.266,10.868 C24.266,7.326 21.978,5.698 19.25,5.698 C18.502,5.698 17.93,5.852 17.292,6.16 L17.6,2.706 L23.518,2.706 L23.518,0 L14.806,0 L14.366,7.898 L15.84,8.866 C16.786,8.25 17.314,8.008 18.282,8.008 C19.932,8.008 21.032,9.064 21.032,10.956 C21.032,12.87 19.844,13.948 18.15,13.948 C16.632,13.948 15.488,13.2 14.564,12.298 L13.068,14.366 C14.278,15.576 15.994,16.588 18.568,16.588 Z" id="Path"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
