@@ -1228,9 +1228,9 @@ async function renderTopPairs() {
 
 		el.innerHTML = `
             <div class="pair-left">
-                <div class="pair-ball purple">${p.a}</div>
+                <div class="pair-ball" style="background-color: ${getMarkSixColor(+p.a)};">${p.a}</div>
                 <span class="pair-arrow">↔</span>
-                <div class="pair-ball blue">${p.b}</div>
+                <div class="pair-ball" style="background-color: ${getMarkSixColor(+p.b)};">${p.b}</div>
             </div>
             <div class="pair-right">
                 <div class="pair-count">${p.cnt}</div>
