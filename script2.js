@@ -1005,7 +1005,7 @@ function handleNodeClick(event, d) {
 			}
 						
 			return (isConnected && isAboveThreshold)
-				? opacityScale(ribbon.source.value) : 0.02; // 0.9
+				? opacityScale(ribbon.source.value) : 0; // 0.9
 		});
 					
 	d3.selectAll(".labels")
